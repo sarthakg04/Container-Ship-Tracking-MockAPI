@@ -1,0 +1,21 @@
+{
+  "users": [{
+    "container_number":"FSCU8362129",
+    "destination": "SALVADOR, BR",
+    "from":"HAMBURG, HH, DE",
+    "vessel": "MSC PALAK",
+    "vessel_eta": "12/08/2021",
+    "type":"40' HIGH CUBE",
+    "price_of_calculation":"29/06/2021"
+  },
+            {
+    "container_number":"MEDU8894300",
+    "destination": "HAZIRA PORT/SURAT, IN",
+    "from":"BOSTON, MA, US",
+    "vessel": "MSC ZLATA R,MSC SILVANA,GSL NICOLETTA",
+    "vessel_eta": "not available",
+    "type":"40' HIGH CUBE",
+    "price_of_calculation":"30/04/2021"
+  }
+           
+           ]}
